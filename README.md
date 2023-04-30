@@ -1,2 +1,7 @@
-# cjmayer.github.io/Introduction_Portfolio
-this is my introdcution portfolio.
+# cjmayer.github.io
+
+Welcome to my Introduction Portfolio website. 
+
+Ultimately, the goal of this introduction portfolio website is to create a compelling online presence that showcases my skills and experience, and assist me in achieving my career goals.
+
+
