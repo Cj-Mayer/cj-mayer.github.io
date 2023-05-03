@@ -2,6 +2,6 @@
 
 Welcome to my Introduction Portfolio website. 
 
-The goal of this introduction portfolio website is to create a compelling online presence that showcases my skills and experience, and assist me in achieving my career goals.
+The purpose of this website is to create a compelling online presence that showcases my skills and experience. As well as, assist me in achieve my career goals.
 
 
